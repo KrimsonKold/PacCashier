@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/95c6b038-378c-49ce-b426-9daef617cddf)# Background Project
+# Background Project
 Andi, the owner of a large supermarket in Indonesia, aims to modernize his business by implementing a self-service cashier system. This system will allow customers to:
 1. Independently input purchased items, quantities, and prices
 2. Access the service remotely (enabling purchases from any location)
