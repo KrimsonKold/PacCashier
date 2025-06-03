@@ -1,4 +1,4 @@
-# Background Project
+![image](https://github.com/user-attachments/assets/95c6b038-378c-49ce-b426-9daef617cddf)# Background Project
 Andi, the owner of a large supermarket in Indonesia, aims to modernize his business by implementing a self-service cashier system. This system will allow customers to:
 1. Independently input purchased items, quantities, and prices
 2. Access the service remotely (enabling purchases from any location)
@@ -217,13 +217,13 @@ Andi, the owner of a large supermarket in Indonesia, aims to modernize his busin
 
 # Test Case
 1. Adding two items with `add_item(self, *args)`
-![alt text]<img src="Test1.png">
+![alt text](https://raw.githubusercontent.com/KrimsonKold/PacCashier/refs/heads/master/image/Test1.png)
 2. Deleting an item with `delete_item(self, nama_item)`
-![alt text](image-2.png) 
+![alt text](https://raw.githubusercontent.com/KrimsonKold/PacCashier/refs/heads/master/image/Test2.png) 
 3. Resetting transactions with `reset_transaction(self)`
-![alt text](image-3.png)
+![alt text](https://raw.githubusercontent.com/KrimsonKold/PacCashier/refs/heads/master/image/Test3.png)
 4. Showing the total price of all items with `total_price(self)`
-![alt text](image-4.png)
+![alt text](https://raw.githubusercontent.com/KrimsonKold/PacCashier/refs/heads/master/image/Test4.png)
 
 # Conclusion 
 This self-service cashier system successfully modernizes Andi's supermarket by providing an efficient, user-friendly solution for independent transactions. The Transaction class enables customers to manage their purchases seamlessly, from adding and modifying items to calculating discounts automatically. With robust validation and clear output formatting, the system ensures accuracy while reducing reliance on staff. The tiered discount feature further enhances customer satisfaction by rewarding higher purchases. Overall, this implementation streamlines the checkout process, making it accessible both in-store and remotely. For future improvements, this system could be enhanced by implementing persistent storage, allowing transaction data to be saved externally (e.g., in a database or file). This would ensure transactions remain accessible even after the program terminates or the session ends.
