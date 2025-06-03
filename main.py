@@ -120,7 +120,3 @@ class Transaction:
             discount = 0
 
         return print(f"Total belanjaan anda adalah sebesar: Rp. {total * (1 - discount)}")
-
-TR_17234 = Transaction("Andi")
-TR_17234.add_item(("Ayam Goreng", 2, 20_000), ("Pasta Gigi", 3, 15_000))
-
